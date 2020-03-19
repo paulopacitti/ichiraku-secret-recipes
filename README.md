@@ -6,7 +6,7 @@
 - All the recipes must be a **Markdown** file.
 
 ## Chefs
-- Paulo Pacitti
+- Paulo Pacitti, João Vitor
 
 ## Git Workflow
 - Enviando seus commits para o repositório remoto:
